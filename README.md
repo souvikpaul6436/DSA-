@@ -2,14 +2,22 @@
 
 # All YouTube Resources for DSA 🔥🔥
 
-DSA full course-https://lnkd.in/drfYia2j
-Dynamic Programming-https://lnkd.in/dGpVEHg8
-Recursion-https://lnkd.in/dv6XUNyP
-Heap-https://lnkd.in/dZBJdr2W
-Binary Search-https://lnkd.in/dCQRSiXq
-Stack-https://lnkd.in/dYqeH7ft
-Binary Trees-https://lnkd.in/dFSXYYFt
-Graph-https://lnkd.in/dfmi74sU
+# DSA full course-
+https://lnkd.in/drfYia2j
+# Dynamic Programming-
+https://lnkd.in/dGpVEHg8
+# Recursion-
+https://lnkd.in/dv6XUNyP
+# Heap-
+https://lnkd.in/dZBJdr2W
+# Binary Search-
+https://lnkd.in/dCQRSiXq
+# Stack-
+https://lnkd.in/dYqeH7ft
+# Binary Trees-
+https://lnkd.in/dFSXYYFt
+# Graph-
+https://lnkd.in/dfmi74sU
 
 # YouTube Channels for Learning DSA [BEST]💯💯
 
